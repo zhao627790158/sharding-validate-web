@@ -1,8 +1,8 @@
 #sharding-validate-web
 项目初步暂定完成两部分内容,以后扩展 - -
 
-第一部分:全局id生成器
-主要使用mysql+java current包,完成内存队里id全局生成器--独立的web服务
+第一部分:全局id生成器\n
+主要使用mysql+java current包,完成内存队里id全局生成器--独立的web服务\n
 用到的知识点:
 1,mysql基础事务等
 2,java并发库中的各种队列
