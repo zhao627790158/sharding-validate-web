@@ -16,7 +16,7 @@
 	1,java基础,反射,注解等
 	2,guava常用库
 	3,spring动态路由
-	4,无侵入式修改成使用开源的hytix并发框架
+	4,无侵入式修改成使用开源的hystrix弹性框架
 	5,httpclient模拟调用id生成器生成sharding主键
 	6,在不使用数据库中间件的情况下读写分离
 
